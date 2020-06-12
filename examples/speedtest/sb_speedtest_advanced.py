@@ -2,7 +2,7 @@ from gpiozero import StatusZero
 from speedtest import Speedtest
 from time import sleep
 
-sb = StatusZero()
+sb = StatusBoard()
 
 st = Speedtest()
 
